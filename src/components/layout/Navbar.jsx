@@ -36,7 +36,7 @@ function Navbar() {
           <div className="flex items-center justify-between py-4">
             <Link to="/">
               <h1 className="text-3xl font-bold text-gray-800 hover:text-gray-600 duration-200 cursor-pointer">
-                CookRecipes
+                CookEase
               </h1>
             </Link>
             <SearchBar />
